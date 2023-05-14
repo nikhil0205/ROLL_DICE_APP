@@ -26,6 +26,8 @@ class GradientContainer extends StatelessWidget {
   }
 }
 
+//another way of passing colours as list
+
 // class GradientContainer extends StatelessWidget {
 //   const GradientContainer({super.key,required this.colors});
 //   final List<Color> colors;
